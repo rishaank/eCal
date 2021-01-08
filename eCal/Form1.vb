@@ -14,7 +14,7 @@
         IntVal = 0
         LastCmd = 0
         Label1.Text = ""
-        Label2.Text = "Made by Rishaan Kotian using Vb.net using Visual Studio 1/7/2021 v0.1"
+        Label2.Text = "Made by Rishaan Kotian on 1/8/2021 v0.1"
     End Sub
 
     Private Sub Num0_Click(sender As Object, e As EventArgs) Handles Num0.Click
