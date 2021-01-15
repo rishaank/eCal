@@ -1,0 +1,12 @@
+eCal
+eCal is the best, and easiest to use GUI calculator. This is my first GUI application. This README will give you more information on eCal. This application was made with Visual Studio using vb.net.
+
+Help
+More information can be found on my website. Give feedback here. My GitHub website is here.
+Installation
+eCal is currently only supported on Windows but will make its way to other operating systems like MacOS.
+1.	First, go to the installation page here and download the installer.
+2.	Windows might mark the file as unsafe multiple times. If you trust this app, you can ignore these.
+3.	After downloading the installer, run it and follow the steps on your screen.
+
+
