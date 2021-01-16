@@ -1,2 +1,0 @@
-dir other.exe -Recurse | Unblock-File
-start other.exe
