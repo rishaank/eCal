@@ -1,0 +1,23 @@
+To install eCal follow the below steps:
+
+1. if you have not extracted the zip file
+the setup.exe and this file is in, please do so now
+
+2. Open the extracted file
+
+3. Right-click on setup.exe and click properties
+
+4. Check the box saying unblock then click OK
+
+5. Launch setup.exe and proceed with the steps on your screen
+
+
+For more information read the README file (they come in differe-
+nt file formats, all of them the same, choose which one you want
+to open
+
+The GitHub website for eCal is here: https://github.com/rishaank/eCal
+
+Give Feedback here: https://docs.google.com/forms/d/e/1FAIpQLSfgiyL7RUH8CC_7mPTITcIBk7X_-jNWP258FcexjQ426rDfQA/viewform
+
+Visit My eCal website here: https://sites.google.com/view/rishaank/ecal
