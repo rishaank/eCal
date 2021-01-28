@@ -13,18 +13,31 @@ More information can be found on my [website](https://rishaankotian.wixsite.com/
 eCal is currently only supported on Windows but will make its way to other operating systems like MacOS.
 
 1. Download (save) the Windows-eCal-setup.exe (download from my [GitHub page](https://github.com/rishaank/eCal) or my [Website](https://rishaankotian.wixsite.com/home/ecal))
-
 2. Right-click on the file (after downloading it) and click properties
-
 3. Check the box that says unblock and click OK
-
 4. Run Windows-eCal-setup.exe and proceed with the steps on your screen
 
-   
+## Uninstallation
 
-   
+### Windows
 
-   eCal v1.2 |Rishaan Kotian| README |Thank you for using eCal! 
+1. Open Control Panel
+2. Click view by Category 
+3. Click Uninstall a program
+4. Find Steve Chatbot and click uninstall
+5. Confirm that you want to uninstall
+6. You will get a message when eCal was successfully uninstalled
+7. If you have problems uninstalling or you want to manually uninstall, go [here](https://rishaankotian.wixsite.com/home/ecal)
 
-   
+## Images
+
+![Image1](https://drive.google.com/uc?export=download&id=1_Fir9gYet69rBYwvYmW-awerWKGF_p5u)
+
+![Image2](https://drive.google.com/uc?export=download&id=1DbJ4YRj8P7wSo-4fKmarjosjAUCLnQ-n)
+
+![Image3](https://drive.google.com/uc?export=download&id=1UxWnDyGqhnzSnOLx8ZQchkxk3QuyneJ1)
+
+eCal v2.0.0 |Rishaan Kotian| README |Thank you for using eCal! 
+
+
 
