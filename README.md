@@ -1,4 +1,5 @@
 # eCal Overview
+# DEPRECEATED
 
 eCal is an easy to use GUI calculator. This is my first GUI application. This README will give you information on eCal. This application was made with Visual Studio using vb.net. The installer was made with Inno Setup.
 
